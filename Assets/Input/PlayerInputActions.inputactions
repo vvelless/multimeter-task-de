@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Action",
+            "id": "d4729900-2bce-47bf-ace3-d14ff7951e69",
+            "actions": [
+                {
+                    "name": "MouseScrolling",
+                    "type": "PassThrough",
+                    "id": "a663f7b6-3e11-4257-9cd4-9a469bc6c4b7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cafde292-a925-46b7-baef-55ee5a75a19c",
+                    "path": "<Mouse>/scroll/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseScrolling",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
